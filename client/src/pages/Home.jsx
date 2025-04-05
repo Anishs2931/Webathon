@@ -1,3 +1,4 @@
+import React from 'react';
 import { useUser } from '@clerk/clerk-react';
 
 const Home = () => {
